@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detection_YOLOv11", "Detection_YOLOv11.csproj", "{768A6735-8493-4EB0-A0FD-1B3AD1105F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{768A6735-8493-4EB0-A0FD-1B3AD1105F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768A6735-8493-4EB0-A0FD-1B3AD1105F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768A6735-8493-4EB0-A0FD-1B3AD1105F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768A6735-8493-4EB0-A0FD-1B3AD1105F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0FC18AF-BEB5-48A6-B343-925636A22591}
+	EndGlobalSection
+EndGlobal
